@@ -1,0 +1,16 @@
+2019-02-20 11:29:40-send mail to wengzt@ofidc.com failed,exception: global name 'MIMEApplication' is not defined
+2019-02-20 11:29:40-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 11:31:20-send mail to wengzt@ofidc.com failed,exception: [Errno 2] No such file or directory: u'../\u4e2a\u4eba\u8be6\u60c5/\u7fc1\u7956\u9016-1.xlsx'
+2019-02-20 11:31:20-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 11:32:06-send mail to wengzt@ofidc.com failed,exception: [Errno 2] No such file or directory: u'../\u4e2a\u4eba\u8be6\u60c5/\u7fc1\u7956\u9016-1.xlsx'
+2019-02-20 11:32:06-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 11:33:17-send mail to wengzt@ofidc.com failed,exception: Cannot attach additional subparts to non-multipart/*
+2019-02-20 11:33:17-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 11:34:17-send mail to wengzt@ofidc.com failed,exception: 'str' object has no attribute 'get_content_maintype'
+2019-02-20 11:34:17-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 11:36:15-send mail to wengzt@ofidc.com failed,exception: global name 'msg' is not defined
+2019-02-20 11:36:15-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 15:19:33-send mail to wengzt@ofidc.com failed,exception: global name 'base64' is not defined
+2019-02-20 15:19:33-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
+2019-02-20 15:19:59-send mail to wengzt@ofidc.com failed,exception: 'ascii' codec can't decode byte 0xe7 in position 0: ordinal not in range(128)
+2019-02-20 15:19:59-mail to:wengzt@ofidc.com failed!!!,please send this email manually.
